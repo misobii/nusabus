@@ -10,7 +10,6 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
-nusaBus-backend/.env
 *.local
 
 # Editor directories and files
@@ -23,3 +22,5 @@ nusaBus-backend/.env
 *.njsproj
 *.sln
 *.sw?
+
+.env
