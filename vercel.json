@@ -11,7 +11,7 @@
   ],
   "build": {
     "command": "npm install --legacy-peer-deps && npm run build"
-  },d
+  },
   "rewrites": [
     {
       "source": "/assets/(.*)",
