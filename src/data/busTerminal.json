@@ -1,0 +1,41 @@
+{
+  "Jakarta": [
+    "Terminal Kampung Rambutan",
+    "Terminal Pulo Gebang",
+    "Terminal Pasar Senen",
+    "Terminal Pondok Pinang"
+  ],
+  "Bandung": [
+    "Terminal Cicaheum",
+    "Terminal Leuwipanjang",
+    "Terminal Dago",
+    "Terminal Ledeng"
+  ],
+  "Tangerang": [
+    "Terminal Poris Plawad",
+    "Terminal Poris Plawad 2",
+    "Terminal Cimone Tangerang",
+    "Terminal Bus Ciledung"
+  ],
+  "Semarang": [
+    "Terminal Terboyo",
+    "Terminal Banyumanik",
+    "Terminal Penggoran",
+    "Terminal Bawen"
+  ],
+  "Yogyakarta": ["Terminal Giwangan", "Terminal Jombor"],
+  "Surabaya": [
+    "Terminal Purabaya",
+    "Terminal Osowilangun",
+    "Terminal Bungurasih",
+    "Terminal Benowo"
+  ],
+  "Malang": ["Terminal Arjosari", "Terminal Landungsari"],
+  "Solo": ["Terminal Penggoran", "Terminal Mangkang", "Terminal Tirtonadi"],
+  "Bogor": ["Terminal Baranangsiang"],
+  "Cirebon": ["Terminal Harjamukti"],
+  "Probolinggo": ["Terminal Bayuangga"],
+  "Pekalongan": ["Terminal Pekalongan"],
+  "Tasikmalaya": ["Terminal Indihiang"],
+  "Madiun": ["Terminal Purboyo"]
+}

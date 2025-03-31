@@ -1,0 +1,76 @@
+Date : 2025-03-30 18:40:20
+Directory : e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus
+Total : 35 files,  8401 codes, 93 comments, 293 blanks, all 8787 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          6 |      5,505 |          0 |          6 |      5,511 |
+| JavaScript JSX |         18 |      2,445 |         79 |        214 |      2,738 |
+| JavaScript     |          5 |        418 |         14 |         63 |        495 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Markdown       |          1 |          7 |          0 |          6 |         13 |
+| XML            |          2 |          5 |          0 |          1 |          6 |
+| CSS            |          1 |          5 |          0 |          2 |          7 |
+| Properties     |          1 |          3 |          0 |          0 |          3 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                       |         35 |      8,401 |         93 |        293 |      8,787 |
+| . (Files)                                                                                               |          6 |      4,111 |          1 |         13 |      4,125 |
+| nusaBus-backend                                                                                         |          4 |      1,256 |          6 |         37 |      1,299 |
+| public                                                                                                  |          1 |          4 |          0 |          1 |          5 |
+| src                                                                                                     |         24 |      3,030 |         86 |        242 |      3,358 |
+| src (Files)                                                                                             |          3 |         42 |          0 |          7 |         49 |
+| src\assets                                                                                              |          1 |          1 |          0 |          0 |          1 |
+| src\components                                                                                          |          7 |        801 |         20 |         74 |        895 |
+| src\data                                                                                                |          3 |        470 |          1 |          6 |        477 |
+| src\pages                                                                                               |          8 |      1,579 |         58 |        131 |      1,768 |
+| src\store                                                                                               |          2 |        137 |          7 |         24 |        168 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                | language       | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\README.md                         | Markdown       |          7 |          0 |          6 |         13 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\eslint.config.js                  | JavaScript     |         32 |          0 |          2 |         34 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\index.html                        | HTML           |         13 |          0 |          1 |         14 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\.env              | Properties     |          3 |          0 |          0 |          3 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\package-lock.json | JSON           |        991 |          0 |          1 |        992 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\package.json      | JSON           |         19 |          0 |          1 |         20 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\server.js         | JavaScript     |        243 |          6 |         35 |        284 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\package-lock.json                 | JSON           |      4,013 |          0 |          1 |      4,014 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\package.json                      | JSON           |         40 |          0 |          1 |         41 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\public\nusabus-logo.svg           | XML            |          4 |          0 |          1 |          5 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\App.jsx                       | JavaScript JSX |         28 |          0 |          3 |         31 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\assets\react.svg              | XML            |          1 |          0 |          0 |          1 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\BookingModal.jsx   | JavaScript JSX |        100 |          3 |         14 |        117 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Features.jsx       | JavaScript JSX |         57 |          4 |          5 |         66 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Footer.jsx         | JavaScript JSX |         86 |          6 |          8 |        100 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Hero.jsx           | JavaScript JSX |         64 |          2 |          5 |         71 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Navbar.jsx         | JavaScript JSX |        220 |          1 |         13 |        234 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\popularBuses.jsx   | JavaScript JSX |         63 |          2 |          8 |         73 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\searchBar.jsx      | JavaScript JSX |        211 |          2 |         21 |        234 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\busData.json             | JSON           |        401 |          0 |          1 |        402 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\busTerminal.json         | JSON           |         41 |          0 |          1 |         42 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\facilitiesIcons.jsx      | JavaScript JSX |         28 |          1 |          4 |         33 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\index.css                     | CSS            |          5 |          0 |          2 |          7 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\main.jsx                      | JavaScript JSX |          9 |          0 |          2 |         11 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\About.jsx               | JavaScript JSX |         71 |          5 |          5 |         81 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\BusDetail.jsx           | JavaScript JSX |         79 |          6 |         10 |         95 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\BusLists.jsx            | JavaScript JSX |        175 |         16 |         22 |        213 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\ContactUs.jsx           | JavaScript JSX |        199 |         10 |         17 |        226 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\DepartureSchedule.jsx   | JavaScript JSX |        165 |          9 |         25 |        199 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\Home.jsx                | JavaScript JSX |         17 |          0 |          2 |         19 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\TicketOrder.jsx         | JavaScript JSX |        704 |         12 |         30 |        746 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\searchResults.jsx       | JavaScript JSX |        169 |          0 |         20 |        189 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\store\useContactStore.js      | JavaScript     |         44 |          0 |          8 |         52 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\store\useOrdererStore.js      | JavaScript     |         93 |          7 |         16 |        116 |
+| e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\vite.config.js                    | JavaScript     |          6 |          1 |          2 |          9 |
+| Total                                                                                                   |                |      8,401 |         93 |        293 |      8,787 |
++---------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

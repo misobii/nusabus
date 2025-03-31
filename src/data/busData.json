@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "name": "Rosalia Indah First Class",
+    "type": "First Class",
+    "capacity": 30,
+    "seatType": "Reclining Seat with Leg Rest",
+    "image": "/bus-img/rosalia-double-decker.png",
+    "facilities": [
+      "Full AC",
+      "Toilet",
+      "WiFi",
+      "Snack",
+      "USB Charging",
+      "TV",
+      "Smoking Area"
+    ],
+    "price": 450000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "to": "Surabaya",
+        "arrivalTerminals": ["Terminal Purabaya", "Terminal Bungurasih"],
+        "schedule": ["08:00 WIB", "14:00 WIB", "20:00 WIB"],
+        "arrivalTimes": [
+          "18:00 WIB",
+          "00:00 WIB (+1 hari)",
+          "06:00 WIB (+1 hari)"
+        ]
+      },
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Pasar Senen",
+          "Terminal Pondok Pinang"
+        ],
+        "to": "Bandung",
+        "arrivalTerminals": [
+          "Terminal Leuwipanjang Bandung",
+          "Terminal Cicaheum"
+        ],
+        "schedule": ["07:30 WIB", "13:30 WIB", "19:30 WIB"],
+        "arrivalTimes": ["10:30 WIB", "16:30 WIB", "22:30 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Harapan Jaya Suite Class",
+    "type": "First Class",
+    "capacity": 28,
+    "seatType": "Suite Seat with Bed",
+    "image": "/bus-img/harapan-jaya-suite-class.jpg",
+    "facilities": [
+      "Full AC",
+      "Toilet",
+      "WiFi",
+      "Snack",
+      "USB Charging",
+      "TV",
+      "Personal Entertainment"
+    ],
+    "price": 500000,
+    "routes": [
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Dago", "Terminal Ledeng"],
+        "to": "Yogyakarta",
+        "arrivalTerminals": ["Terminal Giwangan", "Terminal Jombor"],
+        "schedule": ["09:00 WIB", "15:00 WIB", "21:00 WIB"],
+        "arrivalTimes": ["15:00 WIB", "21:00 WIB", "03:00 WIB (+1 hari)"]
+      },
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Pulo Gebang",
+          "Terminal Kampung Rambutan"
+        ],
+        "to": "Semarang",
+        "arrivalTerminals": [
+          "Terminal Terboyo Semarang",
+          "Terminal Banyumanik"
+        ],
+        "schedule": ["10:00 WIB", "16:00 WIB", "22:00 WIB"],
+        "arrivalTimes": ["17:00 WIB", "23:00 WIB", "05:00 WIB (+1 hari)"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sinar Jaya Priority",
+    "type": "First Class",
+    "capacity": 25,
+    "seatType": "Fully Flat Bed Seat",
+    "image": "/bus-img/po-sinar-jaya.png",
+    "facilities": [
+      "Full AC",
+      "WiFi",
+      "USB Charging",
+      "Snack",
+      "TV",
+      "Massage Seat"
+    ],
+    "price": 600000,
+    "routes": [
+      {
+        "from": "Surabaya",
+        "departureTerminals": ["Terminal Benowo", "Terminal Osowilangun"],
+        "to": "Malang",
+        "arrivalTerminals": [
+          "Terminal Arjosari Malang",
+          "Terminal Landungsari"
+        ],
+        "schedule": ["06:00 WIB", "12:00 WIB", "18:00 WIB"],
+        "arrivalTimes": ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
+      },
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pasar Senen"
+        ],
+        "to": "Solo",
+        "arrivalTerminals": ["Terminal Penggoran", "Terminal Mangkang"],
+        "schedule": ["08:30 WIB", "14:30 WIB", "20:30 WIB"],
+        "arrivalTimes": ["17:30 WIB", "23:30 WIB", "05:30 WIB (+1 hari)"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PO Nusantara Suite",
+    "type": "First Class",
+    "capacity": 27,
+    "seatType": "Suite Seat with Sleeping Mode",
+    "image": "/bus-img/nusantara-double-decker.jpg",
+    "facilities": [
+      "Full AC",
+      "WiFi",
+      "USB Charging",
+      "Toilet",
+      "TV",
+      "Mini Bar"
+    ],
+    "price": 550000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Pulo Gebang",
+          "Terminal Kampung Rambutan"
+        ],
+        "to": "Yogyakarta",
+        "arrivalTerminals": ["Terminal Giwangan", "Terminal Jombor"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["14:00 WIB", "20:00 WIB", "02:00 WIB (+1 hari)"]
+      },
+      {
+        "from": "Bandung",
+        "departureTerminals": [
+          "Terminal Leuwipanjang Bandung",
+          "Terminal Cicaheum"
+        ],
+        "to": "Semarang",
+        "arrivalTerminals": ["Terminal Penggoran", "Terminal Bawen"],
+        "schedule": ["08:00 WIB", "14:00 WIB", "20:00 WIB"],
+        "arrivalTimes": ["14:00 WIB", "20:00 WIB", "02:00 WIB (+1 hari)"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lorena Executive",
+    "type": "Kelas Bisnis",
+    "capacity": 42,
+    "seatType": "Reclining Seat",
+    "image": "/bus-img/lorena-executive.jpg",
+    "facilities": ["Full AC", "WiFi", "USB Charging", "Snack"],
+    "price": 300000,
+    "routes": [
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Dago", "Terminal Ledeng"],
+        "to": "Jakarta",
+        "arrivalTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "schedule": ["06:30 WIB", "12:30 WIB", "18:30 WIB"],
+        "arrivalTimes": ["09:30 WIB", "15:30 WIB", "21:30 WIB"]
+      },
+      {
+        "from": "Semarang",
+        "departureTerminals": [
+          "Terminal Terboyo Semarang",
+          "Terminal Banyumanik"
+        ],
+        "to": "Solo",
+        "arrivalTerminals": ["Terminal Penggoran", "Terminal Mangkang"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["08:30 WIB", "14:30 WIB", "20:30 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pahala Kencana Bisnis",
+    "type": "Kelas Bisnis",
+    "capacity": 40,
+    "seatType": "Reclining Seat",
+    "image": "/bus-img/pahala-kencana-bisnis.jpg",
+    "facilities": ["Full AC", "WiFi", "USB Charging", "Snack"],
+    "price": 280000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pasar Senen"
+        ],
+        "to": "Bandung",
+        "arrivalTerminals": ["Terminal Leuwipanjang", "Terminal Cicaheum"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["10:00 WIB", "16:00 WIB", "22:00 WIB"]
+      },
+      {
+        "from": "Surabaya",
+        "departureTerminals": ["Terminal Bungurasih", "Terminal Purabaya"],
+        "to": "Malang",
+        "arrivalTerminals": ["Terminal Arjosari", "Terminal Landungsari"],
+        "schedule": ["08:30 WIB", "14:30 WIB", "20:30 WIB"],
+        "arrivalTimes": ["10:30 WIB", "16:30 WIB", "22:30 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Trans Agung Eksekutif",
+    "type": "Kelas Bisnis",
+    "capacity": 38,
+    "seatType": "Reclining Seat",
+    "image": "/bus-img/trans-agung.png",
+    "facilities": ["Full AC", "WiFi", "Snack", "USB Charging"],
+    "price": 290000,
+    "routes": [
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Cicaheum", "Terminal Leuwipanjang"],
+        "to": "Jakarta",
+        "arrivalTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "schedule": ["06:00 WIB", "12:00 WIB", "18:00 WIB"],
+        "arrivalTimes": ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
+      },
+      {
+        "from": "Yogyakarta",
+        "departureTerminals": ["Terminal Giwangan", "Terminal Jombor"],
+        "to": "Semarang",
+        "arrivalTerminals": ["Terminal Banyumanik", "Terminal Terboyo"],
+        "schedule": ["09:00 WIB", "15:00 WIB", "21:00 WIB"],
+        "arrivalTimes": ["11:00 WIB", "17:00 WIB", "23:00 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sinar Jaya Ekonomi",
+    "type": "Kelas Ekonomi",
+    "capacity": 50,
+    "seatType": "Standard Seat",
+    "image": "/bus-img/sinar-jaya-ekonomi.jpg",
+    "facilities": ["Full AC", "USB Charging"],
+    "price": 180000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "to": "Bogor",
+        "arrivalTerminals": ["Terminal Baranangsiang"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["08:30 WIB", "14:30 WIB", "20:30 WIB"]
+      },
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Cicaheum", "Terminal Leuwipanjang"],
+        "to": "Cirebon",
+        "arrivalTerminals": ["Terminal Harjamukti"],
+        "schedule": ["06:30 WIB", "12:30 WIB", "18:30 WIB"],
+        "arrivalTimes": ["10:00 WIB", "16:00 WIB", "22:00 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Damri Ekonomi",
+    "type": "Kelas Ekonomi",
+    "capacity": 52,
+    "seatType": "Standard Seat",
+    "image": "/bus-img/damri-ekonomi.jpeg",
+    "facilities": ["Full AC", "USB Charging"],
+    "price": 160000,
+    "routes": [
+      {
+        "from": "Surabaya",
+        "departureTerminals": ["Terminal Bungurasih", "Terminal Purabaya"],
+        "to": "Probolinggo",
+        "arrivalTerminals": ["Terminal Bayuangga"],
+        "schedule": ["08:00 WIB", "14:00 WIB", "20:00 WIB"],
+        "arrivalTimes": ["10:30 WIB", "16:30 WIB", "22:30 WIB"]
+      },
+      {
+        "from": "Semarang",
+        "departureTerminals": ["Terminal Terboyo", "Terminal Banyumanik"],
+        "to": "Pekalongan",
+        "arrivalTerminals": ["Terminal Pekalongan"],
+        "schedule": ["07:30 WIB", "13:30 WIB", "19:30 WIB"],
+        "arrivalTimes": ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Haryanto Ekonomi",
+    "type": "Kelas Ekonomi",
+    "capacity": 48,
+    "seatType": "Standard Seat",
+    "image": "/bus-img/haryanto-ekonomi.jpg",
+    "facilities": ["Full AC", "USB Charging"],
+    "price": 170000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "to": "Cirebon",
+        "arrivalTerminals": ["Terminal Harjamukti"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["11:00 WIB", "17:00 WIB", "23:00 WIB"]
+      },
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Leuwipanjang", "Terminal Cicaheum"],
+        "to": "Tasikmalaya",
+        "arrivalTerminals": ["Terminal Indihiang"],
+        "schedule": ["06:30 WIB", "12:30 WIB", "18:30 WIB"],
+        "arrivalTimes": ["08:30 WIB", "14:30 WIB", "20:30 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gunung Harta Ekonomi",
+    "type": "Kelas Ekonomi",
+    "capacity": 50,
+    "seatType": "Standard Seat",
+    "image": "/bus-img/gunung-harta.jpg",
+    "facilities": ["Full AC", "USB Charging"],
+    "price": 190000,
+    "routes": [
+      {
+        "from": "Surabaya",
+        "departureTerminals": ["Terminal Bungurasih", "Terminal Purabaya"],
+        "to": "Madiun",
+        "arrivalTerminals": ["Terminal Purboyo"],
+        "schedule": ["08:00 WIB", "14:00 WIB", "20:00 WIB"],
+        "arrivalTimes": ["11:00 WIB", "17:00 WIB", "23:00 WIB"]
+      },
+      {
+        "from": "Yogyakarta",
+        "departureTerminals": ["Terminal Giwangan", "Terminal Jombor"],
+        "to": "Solo",
+        "arrivalTerminals": ["Terminal Tirtonadi"],
+        "schedule": ["07:30 WIB", "13:30 WIB", "19:30 WIB"],
+        "arrivalTimes": ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Laju Prima Ekonomi",
+    "type": "Kelas Ekonomi",
+    "capacity": 50,
+    "seatType": "Standard Seat",
+    "image": "/bus-img/laju-prima.jpg",
+    "facilities": ["Full AC", "USB Charging"],
+    "price": 175000,
+    "routes": [
+      {
+        "from": "Jakarta",
+        "departureTerminals": [
+          "Terminal Kampung Rambutan",
+          "Terminal Pulo Gebang"
+        ],
+        "to": "Semarang",
+        "arrivalTerminals": ["Terminal Terboyo", "Terminal Banyumanik"],
+        "schedule": ["06:00 WIB", "12:00 WIB", "18:00 WIB"],
+        "arrivalTimes": ["13:00 WIB", "19:00 WIB", "01:00 WIB (+1 hari)"] 
+      },
+      {
+        "from": "Bandung",
+        "departureTerminals": ["Terminal Cicaheum", "Terminal Leuwipanjang"],
+        "to": "Cirebon",
+        "arrivalTerminals": ["Terminal Harjamukti"],
+        "schedule": ["07:00 WIB", "13:00 WIB", "19:00 WIB"],
+        "arrivalTimes": ["10:30 WIB", "16:30 WIB", "22:30 WIB"]
+      }
+    ]
+  }
+]
