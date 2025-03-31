@@ -1,0 +1,37 @@
+"filename", "language", "Markdown", "JSON", "JavaScript", "HTML", "XML", "JavaScript JSX", "CSS", "Properties", "comment", "blank", "total"
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\README.md", "Markdown", 7, 0, 0, 0, 0, 0, 0, 0, 0, 6, 13
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\eslint.config.js", "JavaScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 2, 34
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\index.html", "HTML", 0, 0, 0, 13, 0, 0, 0, 0, 0, 1, 14
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\.env", "Properties", 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\package-lock.json", "JSON", 0, 991, 0, 0, 0, 0, 0, 0, 0, 1, 992
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\package.json", "JSON", 0, 19, 0, 0, 0, 0, 0, 0, 0, 1, 20
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\nusaBus-backend\server.js", "JavaScript", 0, 0, 285, 0, 0, 0, 0, 0, 12, 39, 336
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\package-lock.json", "JSON", 0, 4013, 0, 0, 0, 0, 0, 0, 0, 1, 4014
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\package.json", "JSON", 0, 40, 0, 0, 0, 0, 0, 0, 0, 1, 41
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\public\nusabus-logo.svg", "XML", 0, 0, 0, 0, 4, 0, 0, 0, 0, 1, 5
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 28, 0, 0, 0, 3, 31
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\assets\react.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\BookingModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 109, 0, 0, 3, 14, 126
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Features.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 57, 0, 0, 4, 5, 66
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 86, 0, 0, 6, 8, 100
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Hero.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 64, 0, 0, 2, 5, 71
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 220, 0, 0, 1, 13, 234
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\popularBuses.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 63, 0, 0, 2, 8, 73
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\components\searchBar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 211, 0, 0, 2, 21, 234
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\busData.json", "JSON", 0, 420, 0, 0, 0, 0, 0, 0, 0, 1, 421
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\busTerminal.json", "JSON", 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 42
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\data\facilitiesIcons.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 28, 0, 0, 1, 4, 33
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\index.css", "CSS", 0, 0, 0, 0, 0, 0, 5, 0, 0, 2, 7
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 9, 0, 0, 0, 2, 11
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\About.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 71, 0, 0, 5, 5, 81
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\BusDetail.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 79, 0, 0, 6, 10, 95
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\BusLists.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 175, 0, 0, 16, 22, 213
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\ContactUs.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 199, 0, 0, 10, 17, 226
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\DepartureSchedule.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 165, 0, 0, 9, 25, 199
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 17, 0, 0, 0, 2, 19
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\TicketOrder.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 939, 0, 0, 19, 44, 1002
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\pages\searchResults.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 169, 0, 0, 0, 20, 189
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\store\useContactStore.js", "JavaScript", 0, 0, 44, 0, 0, 0, 0, 0, 0, 8, 52
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\src\store\useOrdererStore.js", "JavaScript", 0, 0, 93, 0, 0, 0, 0, 0, 7, 16, 116
+"e:\Kuliah\Semester 2\Web Programming I\Progress Projek\projek-nusaBus\vite.config.js", "JavaScript", 0, 0, 6, 0, 0, 0, 0, 0, 1, 2, 9
+"Total", "-", 7, 5524, 460, 13, 5, 2689, 5, 3, 106, 311, 9123
